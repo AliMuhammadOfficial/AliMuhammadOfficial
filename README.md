@@ -2,7 +2,7 @@
 <h5 align="center">
   <code>
   	<a href="https://www.linkedin.com/in/AliMuhammadOfficial/" title="LinkedIn">
-			<img width="22" src="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial/blob/master/images/linkedin.svg"> LinkedIn
+			<img width="22" src="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial/images/linkedin.svg"> LinkedIn
 		</a>
   </code>
 </h5>
@@ -26,10 +26,10 @@
 
 <p align="center">
   <code>
-		<img title="Python" height="25" src="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial/blob/master/images/python.svg">
+		<img title="Python" height="25" src="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial/images/python.svg">
 	</code>
   <code>
-		<img title="Python" height="25" src="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial/blob/master/images/django.svg">
+		<img title="Python" height="25" src="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial/images/django.svg">
 	</code>
 
 </p>

@@ -26,10 +26,10 @@
 
 <p align="center">
   <code>
-		<img title="Python" height="25" src="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial/images/python.svg">
+		<img title="Python" height="25" src="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial/blob/main/images/python.svg">
 	</code>
   <code>
-		<img title="Python" height="25" src="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial/images/django.svg">
+		<img title="Python" height="25" src="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial/blob/main/images/django.svg">
 	</code>
 
 </p>

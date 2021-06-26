@@ -1,8 +1,8 @@
 ![Ali Muhammad](https://raw.githubusercontent.com/AliMuhammadOfficial/AliMuhammadOfficial/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<h2>Hey there! I'm Ali <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40'/></h2>
+<h2>Hey there! I'm Ali</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Ali -->
+## 👋 &nbsp;Hey there! I'm Ali
 
 ### 👨🏻‍💻 &nbsp;About Me
 

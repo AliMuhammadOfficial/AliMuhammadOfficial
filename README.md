@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop softwares not only software butt efficient secure with best practices.\
+💡 &nbsp;I like to explore new technologies and develop softwares not only software butt efficient and secure with best practices.\
 🎓 &nbsp;I'm a self taught developer from pakistan.\
 🌱 &nbsp;Currently I'm exploring more about Artificial Intelligence, Data Analysis, IoT Network Programming and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\

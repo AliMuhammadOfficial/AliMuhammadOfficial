@@ -1,53 +1,47 @@
-<h3 align="center">Hello there, I'm Ali Muhammad 👋</h3>
-<h5 align="center">
-  <code>
-  	<a href="https://www.linkedin.com/in/AliMuhammadOfficial/" title="LinkedIn">
-			<img width="22" src="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial/images/linkedin.svg"> LinkedIn
-		</a>
-  </code>
-</h5>
-<br>
+![Ali Muhammad](https://raw.githubusercontent.com/AliMuhammadOfficial/AliMuhammadOfficial/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ali</h2>
+
+<!-- ## 👋 &nbsp;Hey there! I'm Ali -->
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop softwares not only software butt efficient secure with best practices.\
+🎓 &nbsp;I'm a self taught developer from pakistan.\
+🌱 &nbsp;Currently I'm exploring more about Artificial Intelligence, Data Analysis, IoT Network Programming and Cloud Architecture.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can reach me at ali9796408@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](#) for more details about me. I'm open to feedback and suggestions!
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AliMuhammadOfficial/AliMuhammadOfficial/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-  Hi, I'm Ali Muhammad Programmer & Software Developer from Pakistan
-  <br>
-  <br>
-  💻 I love writing code and learning new things
-  <br>
-  🔬 I’m currently working on Django and Artificial Intelligence
-  <br>
-  💬 Ask me about <a href="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: ali9796408@gmail.com">ali9796408@gmail.com</a>
+<a href="https://github.com/AliMuhammadOfficial">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AliMuhammadOfficial&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AliMuhammadOfficial&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-<hr>
-
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <code>
-		<img title="Python" height="25" src="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial/blob/main/images/python.svg">
-	</code>
-  <code>
-		<img title="Python" height="25" src="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial/blob/main/images/django.svg">
-	</code>
-
-</p>
-<hr>
-
-<h2 align="center">Repositories</h2>
-
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial.github.io" title="Algorithms">
-		<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AliMuhammadOfficial&repo=AliMuhammadOfficial&theme=gotham">
-	</a>
-	<a align="left" href="https://github.com/AliMuhammadOfficial/AliMuhammadOfficial.github.io" title="Algorithms">
-		<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AliMuhammadOfficial&repo=AliMuhammadOfficial&theme=gotham">
-	</a>
-</p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h4 align="center"><a href=https://github.com/AliMuhammadOfficial?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
-
-<p align = "center">
-    ⭐️ From <a href="https://github.com/AliMuhammadOfficial/">Ali Muhammad</a>
+<a href="#"><img src=""/></a>
 </p>

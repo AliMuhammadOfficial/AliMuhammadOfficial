@@ -1,8 +1,6 @@
 ![Ali Muhammad](https://raw.githubusercontent.com/AliMuhammadOfficial/AliMuhammadOfficial/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<h2>Hey there! I'm Ali</h2>
-
-## 👋 &nbsp;Hey there! I'm Ali
+## &nbsp;Hey there! I'm Ali 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
 

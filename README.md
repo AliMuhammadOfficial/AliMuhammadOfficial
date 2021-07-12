@@ -11,7 +11,7 @@
 🎓 &nbsp;I'm a self taught developer from pakistan.\
 🌱 &nbsp;Currently I'm exploring more about Artificial Intelligence, Data Analysis, IoT Network Programming and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can reach me at ali9796408@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can reach me at me@ali-muhammad.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](#) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AliMuhammadOfficial/AliMuhammadOfficial/master/assets/Night-Coding.gif" align="right"/>

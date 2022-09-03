@@ -1,20 +1,23 @@
 ![Ali Muhammad](https://raw.githubusercontent.com/AliMuhammadOfficial/AliMuhammadOfficial/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
 <h2>Hey there! I'm Ali</h2>
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Ali -->
 
 ### 👨🏻‍💻 &nbsp;About Me
+I'm a full stack developer having more than 4+ years of experience in building
+modern, efficient, and highly scalable applications using micro-services, and
+serverless architectures for small startups to enterprise businesses in my past
+experience, I have worked with teams located in different time zones, I also focus on
+transparency and productivity by embracing modern development practices Agile,
+Scrum, Test Driven Development (TDD), Infrastructure as Code, Continuous
+Development & Continuous Delivery.
 
 💡 &nbsp;I like to explore new technologies and develop softwares not only software butt efficient secure with best practices.\
-🎓 &nbsp;I'm a self taught developer from pakistan.\
-🌱 &nbsp;Currently I'm exploring more about Artificial Intelligence, Data Analysis, IoT Network Programming and Cloud Architecture.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can reach me at me@ali-muhammad.com! I'll try to respond as soon as I can.\
+🌱 &nbsp;Currently I'm exploring more about Artificial Intelligence & Machine Learning, Data Analysis, Network Programming and Cloud Architecture.\
+✉️ &nbsp;You can reach me at me@alimuhammad.org! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](#) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AliMuhammadOfficial/AliMuhammadOfficial/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 

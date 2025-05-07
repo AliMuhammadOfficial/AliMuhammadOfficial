@@ -1,4 +1,4 @@
-### 👨🏻‍💻 About Me
+### About Me
 I’m a full-stack developer with over **6 years** of real-world experience. I love taking ideas, from simple sketches to big visions, and turning them into polished, user-friendly software. I’ve built everything from microservices and monoliths to serverless systems, all with security, speed, and scalability in mind. Most of my work has been with early-stage startups, where I thrive on collaboration, fast iteration, and tackling new challenges.
 
 I’m a big believer in clear communication and team empowerment. That’s why I follow practices like Agile, Scrum, Test-Driven Development (TDD), Infrastructure as Code, and Continuous Integration & Delivery.  

@@ -3,7 +3,7 @@ I’m a full-stack developer with over **6 years** of real-world experience. I l
 
 I’m a big believer in clear communication and team empowerment. That’s why I follow practices like Agile, Scrum, Test-Driven Development (TDD), Infrastructure as Code, and Continuous Integration & Delivery.  
 
-### 🚀 My Mission
+### My Mission
 I want to build projects that really matter, whether it’s helping farmers boost crop yields, creating tools to fight climate change, or speeding up discoveries in science and healthcare.
 
 ### 🌱 Currently Exploring
